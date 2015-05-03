@@ -23,7 +23,7 @@ $(function() {
     
     $('.twitter').on('click', function() {
         var loc = encodeURIComponent('http://bit.ly/playinglean'),
-                title = "Teach Lean Startup in 90 minutes — with a board game",
+                title = "Teach Lean Startup in 90 minutes — with a board game #playinglean",
                 w = 580, h = 300,
                 left = (screen.width/2)-(w/2),
                 top = (screen.height/2)-(h/2);
