@@ -32,7 +32,7 @@ $(function() {
     });
     
     $('.play').on('click', function() {
-        window.location.href = "http://kck.st/1bUJGKV";
+        window.open("http://kck.st/1bUJGKV");
     });
     
 });
