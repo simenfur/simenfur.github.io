@@ -22,8 +22,8 @@ $(function() {
     });
     
     $('.twitter').on('click', function() {
-        var loc = encodeURIComponent('http://kck.st/1bUJGKV'),
-                title = "Teach Lean Startup in 90 minutes — with this board game #playinglean http://kck.st/1bUJGKV",
+        var loc = encodeURIComponent("http://kck.st/1bUJGKV"),
+                title = "Teach Lean Startup in 90 minutes — with a board game",
                 w = 580, h = 300,
                 left = (screen.width/2)-(w/2),
                 top = (screen.height/2)-(h/2);
